@@ -1,2 +1,4 @@
 networking/node_modules/
 microservices/node_modules/
+.DS_Store
+data/
